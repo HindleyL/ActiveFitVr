@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 1518fe43655e3b748891273f228dc805
+  - enabled: 1
+    path: Assets/Scenes/Frank Turner.unity
+    guid: 9ab15263bffbdb24a95014a2247ec4ca
+  - enabled: 1
+    path: Assets/Scenes/Rick Astley.unity
+    guid: 4071c98abc0f11a4090e82293808623c
+  - enabled: 1
+    path: Assets/Scenes/A Day to remmember.unity
+    guid: 6de557a136d6ad243af9f28521f9c60b
+  - enabled: 1
+    path: Assets/Scenes/Pale Waves.unity
+    guid: e0d45c3d26eb2274c8e608ae5203a113
+  - enabled: 1
+    path: Assets/Scenes/Chvrches.unity
+    guid: 3c4c56c82f3a4c64f8fa6dc9c285d8b3
   m_configObjects: {}

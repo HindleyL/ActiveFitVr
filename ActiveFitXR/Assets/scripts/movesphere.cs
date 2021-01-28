@@ -15,4 +15,8 @@ public class movesphere : MonoBehaviour
     {
         transform.position += Time.deltaTime * transform.forward * 2;
     }
+    public void destory()
+    {
+        Destroy(gameObject);
+    }
 }
